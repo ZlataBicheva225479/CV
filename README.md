@@ -1,7 +1,9 @@
 # CV
 This repository presents all the projects which are a practical implamantation of my skills gained so far. Here is a brief description of each of them:
 
-### 1. Analysis of a current stage of improvements in Sustainable development goal number 8.
+
+
+## Analysis of a current stage of improvements in Sustainable development goal number 8
 
 __Skills used:__ data visualising in PowerBI, market research, conduction of exploratory data analysis, providing insights for solving problems in this case.
 
